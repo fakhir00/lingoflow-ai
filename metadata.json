@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow AI",
+  "description": "A cutting-edge language learning companion powered by Gemini 2.5 Live API. Practice real-time conversations in multiple languages with adaptive AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
